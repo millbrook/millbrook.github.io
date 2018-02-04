@@ -1,0 +1,14 @@
+<!-- Pagination links -->
+<footer>
+    <div class="pagination">
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}#main" class="previous">Previous</a>
+        {% endif %}
+
+        <a class="page active count">{{ paginator.page }} of {{ paginator.total_pages }}</a>
+
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}#main" class="next">Next</a>
+        {% endif %}
+    </div>
+</footer>

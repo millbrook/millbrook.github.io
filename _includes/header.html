@@ -1,0 +1,10 @@
+{% assign site_url = site.baseurl | absolute_url %}
+{% assign last_char = site_url | slice: -1 %}
+{% if last_char != "/" %}
+    {% assign site_url = site_url | append : "/" %}
+{% endif %}
+
+<!-- Header -->
+<header id="header">
+    <a href="{{ site_url }}" class="logo">{{ site.title }}</a>
+</header>

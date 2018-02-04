@@ -1,0 +1,25 @@
+---
+layout: home
+in_menu: true
+title: Mill Brook
+---
+
+<!-- Featured Post -->
+{% if paginator.page == 1 %}
+    {% for post in site.posts %}
+        {% if post.is_featured %}
+            {% include post-snippet.html css_classes="major" %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+
+<!-- Posts -->
+<section class="posts">
+{% for post in paginator.posts %}
+    {% if post.is_featured == null or paginator.page > 1 %}
+        {% include post-snippet.html css_classes="" %}
+    {% endif %}
+{% endfor %}
+</section>
+
+{% include pagination.html %}

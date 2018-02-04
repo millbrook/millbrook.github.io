@@ -1,0 +1,21 @@
+<article class="post featured">
+
+    <header class="{{ include.css_classes }}">
+        <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
+
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+
+        {% if post.description %}
+            <p class="description">{{ post.description }}</p>
+        {% endif %}
+    </header>
+
+    {% if post.image %}
+        <a href="{{ post.url | relative_url }}" class="image main"><img src="{{ post.image | relative_url }}" alt=""/></a>
+    {% endif %}
+
+    <p>{{ post.excerpt }}</p>
+
+    <a href="{{ post.url | relative_url }}" class="button big">Read More</a>
+
+</article>

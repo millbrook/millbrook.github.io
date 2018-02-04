@@ -1,0 +1,39 @@
+# site settings
+title: Mill Brook
+subtitle: Civic Association
+description: Mill Brook Civic Association site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+paginate: 4
+formspree_email: millbrook@miki725.com
+
+author:
+email:
+street_address: P.O. Box 1312
+city: Valley Stream
+state: NY
+zip_code: 11582-1312
+country: United States of America
+phone:
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/groups/78297736340
+github_url: https://github.com/millbrook/millbrook.github.io
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+
+sass:
+  sass_dir: assets/sass
+#  style: compressed
