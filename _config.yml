@@ -4,7 +4,7 @@ subtitle: Civic Association
 description: Mill Brook Civic Association site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-paginate: 4
+paginate: 5
 formspree_email: general@millbrookcivic.com
 
 author:
