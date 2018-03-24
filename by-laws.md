@@ -29,7 +29,7 @@ for a maximum period of two years for transition purposes.
 
 ### Section 2
 
-Dues shall be twenty ($20) per household, per year payable on or before March 1 of each year. 
+Dues shall be twenty ($25) per household, per year payable on or before March 1 of each year. 
 Dues will be reviewed annually and if necessary adjusted by the Board of Directors by a two-thirds vote.
 
 ## Article V - Officers
