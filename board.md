@@ -42,7 +42,6 @@ You just might open a door you never knew was there.
 
 ## Board Members
 
-* Peter Hunter
 * Cory Terry
 * John Campbell
 * Sherman McDonald
