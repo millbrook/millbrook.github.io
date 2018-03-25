@@ -16,7 +16,7 @@ title: Mill Brook
 <!-- Posts -->
 <section class="posts">
 {% for post in paginator.posts %}
-    {% if post.is_featured == null or paginator.page > 1 %}
+    {% if not post.is_featured or paginator.page > 1 %}
         {% include post-snippet.html css_classes="" %}
     {% endif %}
 {% endfor %}

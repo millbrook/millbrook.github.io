@@ -1,6 +1,6 @@
 ---
 layout: post
-is_featured: true
+is_featured: false
 title: 2016 Planting Day
 description: Spring 2016 Volunteer Planting Day. Thanks to all!
 image: assets/images/2016-planting-day-cover.jpg
