@@ -108,13 +108,11 @@ Phone: 511<br/>
 
 ## Nassau County
 
-<p class="box"><strong>Executive Edward Mangano</strong><br/>
-Theodore Roosevelt<br/>
-Executive and Legislative Building<br/>
-1550 Franklin Avenue<br/>
-Mineola, NY 11501-4898<br/>
-Phone: (516) 571-6000<br/>
-Nassau County Operator: (516) 571-3000<br/>
+<p class="box"><strong>Executive Laura Curran</strong><br/>
+Office of the County Executive<br/>
+1550 Franklin Ave.<br/>
+Mineola, NY 11501<br/>
+Phone: (516) 571-3131<br/>
 <a href="http://www.nassaucountyny.gov">www.nassaucountyny.gov</a></p>
 
 <p class="box"><strong>Legislator Carrie Solages</strong><br/>
@@ -135,9 +133,10 @@ Phone: (516) 825-6422<br/>
 
 ## Town of Hempstead
 
-<p class="box"><strong>Supervisor Anthony J. Santino</strong><br/>
+<p class="box"><strong>Supervisor Laura A. Gillen</strong><br/>
 Phone: (516) 812-3260<br/>
-Email: <a href="http://townofhempstead.org/helpline">asantino@tohmail.org</a></p>
+Email: <a href="mailto:lgillen@tohmail.org">lgillen@tohmail.org</a><br/>
+Helpline: <a href="http://townofhempstead.org/helpline">http://www.townofhempstead.org/helpline</a></p>
 
 <p class="box"><strong>Councilman Bruce Blakeman</strong><br/>
 Phone: (516) 812-3523<br/>
