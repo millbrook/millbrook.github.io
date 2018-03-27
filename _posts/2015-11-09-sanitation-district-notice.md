@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notice from Sanitation District #1
+title: Notice from Sanitation District &#35;1
 ---
 
 Sanitation has begun a new recycling program, and also altered our regular pickup schedule.

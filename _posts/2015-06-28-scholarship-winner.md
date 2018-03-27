@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Letter from Scholarship Winner
+title: SHS Scholarship Winner
 description: Mill Brook Civic Association Scholarship Winner, Demi Moore
 image: assets/images/2015-scholarship-winner-demi-moore.jpg
 ---
