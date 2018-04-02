@@ -4,7 +4,7 @@ in_menu: true
 title: About
 ---
 
-Pictures are worth a thousand words:
+Pictures are worth a thousand words. Please enjoy our neighborhood photo slideshow.
 
 <a data-flickr-embed="true"
    href="https://www.flickr.com/photos/163290649@N03/albums/72157694381567315"
