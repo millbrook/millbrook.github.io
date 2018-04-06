@@ -4,6 +4,10 @@ in_menu: true
 title: About
 ---
 
+## Neighborhood
+
+### Photo Gallery
+
 Pictures are worth a thousand words. Please enjoy our neighborhood photo slideshow.
 
 <a data-flickr-embed="true"
@@ -15,4 +19,10 @@ Pictures are worth a thousand words. Please enjoy our neighborhood photo slidesh
 </a>
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-To read more about the neighborhood history, see [History]({{ site.baseurl }}{% link history.md %}).
+### History
+
+Read about neighborhood history [here]({{ site.baseurl }}{% link history.md %}).
+
+## Civic Board
+
+Learn about our Civic Board [here]({{ site.baseurl }}{% link board.md %}).

@@ -1,6 +1,5 @@
 ---
 layout: page
-in_menu: true
 title: History
 description: History of Mill Brook
 ---
