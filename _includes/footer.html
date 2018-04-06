@@ -1,49 +1,36 @@
 <!-- Footer -->
 <footer id="footer">
-    {% if site.formspree_email %}
-        <section>
-            <form action="https://formspree.io/{{ site.formspree_email }}" method="POST">
-                <div class="field">
-                    <label for="name">Name</label>
-                    <input type="text" name="name" id="name" required/>
-                </div>
-                <div class="field">
-                    <label for="email">Email</label>
-                    <input type="email" name="_replyto" id="email" required/>
-                </div>
-                <div class="field">
-                    <label for="message">Message</label>
-                    <textarea name="message" id="message" rows="3" required></textarea>
-                </div>
-                <ul class="actions">
-                    <li><input type="submit" value="Send Message"/></li>
-                </ul>
-            </form>
-        </section>
-    {% endif %}
 
     <section class="split contact">
-        {% if site.street_address %}
         <section class="alt">
-            <h3>Address</h3>
-            <p>
-                {{ site.street_address }}<br/>
-                {{ site.city }}, {{ site.state }} {{ site.zip_code }}
-            </p>
+            <h3>Contact Us</h3>
+            <p>You can contact us <a href="{{ site.baseurl }}{% link contact-us.html %}">here</a></p>
         </section>
+
+        {% if site.street_address %}
+            <section class="alt">
+                <h3>Address</h3>
+                <p>
+                    {{ site.street_address }}<br/>
+                    {{ site.city }}, {{ site.state }} {{ site.zip_code }}
+                </p>
+            </section>
         {% endif %}
+
         {% if site.phone %}
             <section>
                 <h3>Phone</h3>
                 <p><a href="#">{{ site.phone }}</a></p>
             </section>
         {% endif %}
+
         {% if site.email %}
-        <section>
-            <h3>Email</h3>
-            <p><a href="#">{{ site.email }}</a></p>
-        </section>
+            <section>
+                <h3>Email</h3>
+                <p><a href="{{ site.baseurl }}{% link contact-us.html %}">{{ site.email }}</a></p>
+            </section>
         {% endif %}
+
         <section>
             <h3>Social</h3>
             <ul class="icons alt">

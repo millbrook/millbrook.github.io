@@ -9,7 +9,7 @@ formspree_email: general@millbrookcivic.com
 future: true
 
 author:
-email:
+email: general@millbrookcivic.com
 street_address: P.O. Box 1312
 city: Valley Stream
 state: NY

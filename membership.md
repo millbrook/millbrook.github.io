@@ -4,10 +4,10 @@ in_menu: true
 title: Membership
 ---
 
-Dues are **$25** per household, per year payable on or before March 1 of each year. 
+Dues are **$25** per household, per year payable on or before March 1 of each year.
 Use the button below to pay your dues using PayPal.
 
-If you have any questions, please contact us on the form below and address it to the Administrative committee.
+If you have any questions, please [Contact Us]({{ site.baseurl }}{% link contact-us.html %}) and address it to the Administrative committee.
 
 Thank you for your generosity. We appreciate your support!
 
