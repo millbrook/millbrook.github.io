@@ -1,5 +1,6 @@
 ---
 layout: page
+in_menu: true
 title: Civic Board
 ---
 
