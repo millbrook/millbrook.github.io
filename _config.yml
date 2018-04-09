@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 paginate: 10
 formspree_email: general@millbrookcivic.com
+google_analytics: UA-117166630-1
 future: true
 
 author:
