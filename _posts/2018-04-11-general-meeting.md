@@ -1,6 +1,5 @@
 ---
 layout: post
-is_featured: true
 title: Mill Brook Civic Association General Meeting
 description: Wednesday, April 11 2018, 7:30pm, Forest Road School
 ---
