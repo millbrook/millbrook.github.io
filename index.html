@@ -7,7 +7,7 @@ title: Mill Brook
 <!-- Featured Post -->
 {% if paginator.page == 1 %}
     {% for post in site.posts %}
-        {% if post.is_featured %}
+        {% if post.is_featured or forloop.first %}
             {% include post-snippet.html css_classes="major" %}
         {% endif %}
     {% endfor %}
@@ -17,7 +17,9 @@ title: Mill Brook
 <section class="posts">
 {% for post in paginator.posts %}
     {% if post.is_featured == null or post.is_featured == false or paginator.page > 1 %}
-        {% include post-snippet.html css_classes="" %}
+        {% if forloop.first == false %}
+            {% include post-snippet.html css_classes="" %}
+        {% endif %}
     {% endif %}
 {% endfor %}
 </section>
