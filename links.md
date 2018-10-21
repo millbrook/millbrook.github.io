@@ -146,6 +146,9 @@ Email: <a href="mailto:bblakeman@tohmail.org">bblakeman@tohmail.org</a></p>
 Phone: (516) 239-5600<br/>
 <a href="http://sanitarydistrict1.com/">http://sanitarydistrict1.com/</a></p>
 
+<p class="box"><strong>Town of Hempstead Code and Permit Search Guide</strong><br/>
+<a href="https://hempsteadny.gov/advanced-search#search-advanced-anchor">https://hempsteadny.gov/advanced-search#search-advanced-anchor</a></p>
+
 ## Village of Valley Stream
 
 <p class="box"><strong>Valley Stream Village Hall</strong><br/>
