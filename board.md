@@ -44,6 +44,7 @@ You just might open a door you never knew was there.
 ## Board Members
 
 * Yadlynd Cherubin-Eide
+* Lee Feinman
 
 ## Committees
 
