@@ -38,15 +38,12 @@ You just might open a door you never knew was there.
 * **Executive Vice President** - Bob Brown
 * **1st Vice President** - Linda Kettering
 * **2nd Vice President** - Jack Cohn
-* **Treasurer** - Lee Feinman
-* **Assistant Treasurer** - John Campbell
+* **Treasurer** - John Campbell
 * **Secretary** - Ali Arje
 
 ## Board Members
 
 * Yadlynd Cherubin-Eide
-* Shelby Streeter
-* Jeanine Calhoun
 
 ## Committees
 

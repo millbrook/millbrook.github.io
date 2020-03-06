@@ -133,10 +133,10 @@ Phone: (516) 825-6422<br/>
 
 ## Town of Hempstead
 
-<p class="box"><strong>Supervisor Laura A. Gillen</strong><br/>
-Phone: (516) 812-3260<br/>
-Email: <a href="mailto:lgillen@tohmail.org">lgillen@tohmail.org</a><br/>
-Helpline: <a href="http://townofhempstead.org/helpline">http://www.townofhempstead.org/helpline</a></p>
+<p class="box"><strong>Supervisor Donald X. Clavin, Jr.</strong><br/>
+Phone: (516) 812-3296<br/>
+Email: <a href="mailto:donclavin@tohmail.org">donclavin@tohmail.org</a><br/>
+Helpline: <a href="https://hempsteadny.gov/supervisor">https://hempsteadny.gov/supervisor</a></p>
 
 <p class="box"><strong>Councilman Bruce Blakeman</strong><br/>
 Phone: (516) 812-3523<br/>
