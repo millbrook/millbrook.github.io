@@ -5,7 +5,4 @@ Gemfile.lock
 *.gem
 .idea
 .DS_Store
-
-/.vs/VSWorkspaceState.json
-/.vs/slnx.sqlite
-/.vs/millbrook.github.io/v16/.suo
+.vs
