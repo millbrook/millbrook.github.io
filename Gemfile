@@ -4,7 +4,7 @@ gem "jekyll-paginate", "~> 1.1"
 
 gem "jekyll-sass-converter", "~> 1.5"
 
-gem "kramdown", "~> 1.16"
+gem "kramdown", "~> 2.3"
 
 gem "addressable", "~> 2.5"
 
