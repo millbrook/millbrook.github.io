@@ -7,7 +7,7 @@ See our latest news from around the neighborhood
 
 ## The Free Summer Concert Is Back!
 
-### Tuesday, July 27
+### Tuesday, July 27, 7:30 PM
 
 You'll feel like you just tuned into your favorite radio station as you hear
 all of the songs you loved, as well as incredible "rock blocks" of your
@@ -36,10 +36,22 @@ achievement.
 ![Forest Road PTA Scholarship Winners]({{ "assets/images/2021/neighborhood-update/pta-scholarship-1.jpg" | relative_url }})
 ![Forest Road PTA Scholarship Winners]({{ "assets/images/2021/neighborhood-update/pta-scholarship-2.jpg" | relative_url }})
 
-## Special Offer By The Valley Stream Pool
+## The Valley Stream Pool is Open!
 
-Due to changing New York State COVID-19 guidelines, on Wednesday, June 16th,
-the Valley Stream Pool will be offering full pool membership packages to both
-Village residents and CHSD residents! Go to Village website for more info!
+Since the state has lifted many COVID-19 restrictions, the pool is once again
+offering full pool memberships to all Valley Stream residents. Mill Brook’s
+fees are listed under CHD (Central High District) as we are the unincorporated
+village. See their [website](https://www.vsvny.org/pool) for more information.
 
-![Special Offer By The Valley Stream Pool]({{ "assets/images/2021/neighborhood-update/pool-offer.jpg" | relative_url }})
+| Membership Fees | CHD |
+| --------------- | --- |
+| Family - Husband / Wife<br>unmarried children under 21 | $440 |
+| Adult Individual | $210 |
+| Individual Child / Junior<br>6 months - 16 years old | $140 |
+| Senior Individual<br>over 60 | $110 |
+| Senior Family<br>parents over 60 / children under 21 | $215 |
+| Handicapped Family<br>Disabled or wheelchair aided | $225 |
+| V.S. Vol. Firefighter / Aux. Police<br>Activity Military / Handicapped Ind. | $110 |
+| V.S. Vol. Firefighter / Aux. Police<br>Activity Military Family | $225 |
+| Recreation / Park Pass | $65 |
+| Senior Recreation / Park Pass | $35 |
