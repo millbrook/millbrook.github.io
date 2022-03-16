@@ -1,6 +1,6 @@
 ---
 layout: page
-in_menu: true
+in_menu: false
 title: Civic Board
 ---
 
@@ -34,41 +34,40 @@ You just might open a door you never knew was there.
 
 ## Board Officers
 
-* **President** - Gil VanEtten
-* **Executive Vice President** - Bob Brown
-* **1st Vice President** - Linda Kettering
-* **2nd Vice President** - Jack Cohn
-* **Treasurer** - John Campbell
-* **Secretary** - Ali Arje
+-   **President** - Gil VanEtten
+-   **Executive Vice President** - Bob Brown
+-   **1st Vice President** - Linda Kettering
+-   **2nd Vice President** - Jack Cohn
+-   **Treasurer** - John Campbell
+-   **Secretary** - Ali Arje
 
 ## Board Members
 
-* Yadlynd Cherubin-Eide
-* Lee Feinman
+-   Yadlynd Cherubin-Eide
+-   Lee Feinman
 
 ## Committees
 
 ### External Affairs
 
-* Police matters
-* Streets and roads
-* Local government
-* Green Acres Mall
+-   Police matters
+-   Streets and roads
+-   Local government
+-   Green Acres Mall
 
 ### Community
 
-* Schools
-* Environment
-* Community cleanup
-* Neighborhood events
+-   Schools
+-   Environment
+-   Community cleanup
+-   Neighborhood events
 
 ### Administrative
 
-* Finance and dues
-* Membership
-* Website
-* Facebook page
-
+-   Finance and dues
+-   Membership
+-   Website
+-   Facebook page
 
 ## By-Laws
 
