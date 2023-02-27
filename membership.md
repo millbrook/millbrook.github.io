@@ -6,14 +6,14 @@ title: Membership
 
 Our community dues are **$25** per household annually, due on or before **March 1st** of each year.  With the support of your dues, the civic association can accomplish many business requirements but in particular, your family benefits from the following:
 
-    SUMMER CONCERT           
-    MAINTAIN OUR WEBSITE   
-    ANNUAL BLOCK PARTY      
-    MAINTAIN COMMUNITY GARDENS   
-    STREET RE-PAVING         
-    FUND SOUTH HS SCHOLARSHIP  
-    LIASE WITH MALL MANAGEMENT        
-    PARTNER WITH LOCAL POLICE AND GOVERNMENT    
+- SUMMER CONCERT           
+- MAINTAIN OUR WEBSITE   
+- ANNUAL BLOCK PARTY      
+- MAINTAIN COMMUNITY GARDENS   
+- STREET RE-PAVING         
+- FUND SOUTH HS SCHOLARSHIP  
+- LIASE WITH MALL MANAGEMENT        
+- PARTNER WITH LOCAL POLICE AND GOVERNMENT    
 
 Please feel free to click the **"Pay Dues"** button below to pay your dues using **PayPal**.
 
