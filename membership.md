@@ -12,7 +12,7 @@ Our community dues are **$25** per household annually, due on or before **March 
 - MAINTAIN COMMUNITY GARDENS   
 - STREET RE-PAVING         
 - FUND SOUTH HS SCHOLARSHIP  
-- LIASE WITH MALL MANAGEMENT        
+- LIAISE WITH MALL MANAGEMENT        
 - PARTNER WITH LOCAL POLICE AND GOVERNMENT    
 
 Please feel free to click the **"Pay Dues"** button below to pay your dues using **PayPal**.
