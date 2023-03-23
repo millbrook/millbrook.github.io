@@ -1,5 +1,6 @@
 ---
 layout: post
+in_menu: false
 image: assets/images/2019-storm-recovery.jpg
 title: Storm Recovery Project
 ---
