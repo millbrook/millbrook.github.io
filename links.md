@@ -118,7 +118,7 @@ Phone: (516) 571-3131<br/>
 <p class="box"><strong>Legislator Carrie Solages</strong><br/>
 Phone: (516) 571-6203<br/>
 Fax: (516) 571-6732<br/>
-<a href="http://www.nassaucountyny.gov/agencies/Legis/LD/03/contact.php">www.nassaucountyny.gov/agencies/Legis/LD/03/contact.php</a></p>
+<a href="https://forms.nassaucountyny.gov/contact/agencies/ld03/contact.php">https://forms.nassaucountyny.gov/contact/agencies/ld03/contact.php</a></p>
 
 <h3>Nassau County Police Department</h3>
 <p class="box"><strong>5th Precinct - Elmont</strong><br/>
@@ -135,7 +135,7 @@ Phone: (516) 825-6422<br/>
 
 <p class="box"><strong>Supervisor Donald X. Clavin, Jr.</strong><br/>
 Phone: (516) 812-3296<br/>
-Email: <a href="mailto:donclavin@tohmail.org">donclavin@tohmail.org</a><br/>
+Email: <a href="mailto:donclavin@hempsteadNY.gov">donclavin@HempsteadNY.gov</a><br/>
 Helpline: <a href="https://hempsteadny.gov/supervisor">https://hempsteadny.gov/supervisor</a></p>
 
 <p class="box"><strong>Councilman Melissa Miller</strong><br/>
