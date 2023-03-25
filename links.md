@@ -58,7 +58,7 @@ Phone: 1 (800) 275-8777<br/>
 ## State
 
 <p class="box"><strong>Governor Andrew M. Cuomo</strong><br/>
-The Honorable Andrew M. Cuomo<br/>
+The Honorable Kathy Hochul<br/>
 Governor of New York State<br/>
 NYS State Capitol Building<br/>
 Albany, NY 12224<br/>
@@ -66,17 +66,17 @@ Phone: (516) 474-8390<br/>
 <a href="http://www.governor.ny.gov">www.governor.ny.gov</a></p>
 
 <p class="box"><strong>New York State Senator</strong><br/>
-Senator Todd Kaminsky<br/>
+Senator Patricia Canzoneri-Fitzpatrick<br/>
 District Office<br/>
 55 Front Street<br/>
 Rockville Centre, NY 11570<br/>
 Phone: (516) 766-8383<br/>
-Email: <a href="mailto:Kaminsky@nysenate.gov">Kaminsky@nysenate.gov</a></p>
+Email: <a href="mailto:canzoneri@nysenate.gov">canzoneri@nysenate.gov</a></p>
 
 <p class="box"><strong>New York State Assembly</strong><br/>
 Assemblywoman Michaelle C. Solages<br/>
 District Office<br/>
-1690 Central Court<br/>
+33 North Central Avenue<br/>
 Valley Stream, NY 11580<br/>
 Phone: (516) 599-2972<br/>
 Fax: (516) 599-3768<br/>
@@ -108,7 +108,7 @@ Phone: 511<br/>
 
 ## Nassau County
 
-<p class="box"><strong>Executive Laura Curran</strong><br/>
+<p class="box"><strong>Executive Bruce A. Blakeman</strong><br/>
 Office of the County Executive<br/>
 1550 Franklin Ave.<br/>
 Mineola, NY 11501<br/>
@@ -138,9 +138,9 @@ Phone: (516) 812-3296<br/>
 Email: <a href="mailto:donclavin@tohmail.org">donclavin@tohmail.org</a><br/>
 Helpline: <a href="https://hempsteadny.gov/supervisor">https://hempsteadny.gov/supervisor</a></p>
 
-<p class="box"><strong>Councilman Bruce Blakeman</strong><br/>
+<p class="box"><strong>Councilman Melissa Miller</strong><br/>
 Phone: (516) 812-3523<br/>
-Email: <a href="mailto:bblakeman@tohmail.org">bblakeman@tohmail.org</a></p>
+Email: <a href="mailto:melimil@hempsteadny.gov">melimil@hempsteadny.gov</a></p>
 
 <p class="box"><strong>Sanitation District 1</strong><br/>
 Phone: (516) 239-5600<br/>
@@ -177,7 +177,7 @@ Phone: 516-791-0300<br/>
 <a href="https://www.psegliny.com">www.psegliny.com</a><br/>
 Phone: 1 (800) 490-0025</p>
 
-<p class="box"><strong>New York American Water</strong><br/>
-<a href="http://www.amwater.com/nyaw/">www.amwater.com/nyaw/</a><br/>
-Phone: 1 (877) 436-6999<br/>
-Email: <a href="mailto:infoli@amwater.com">infoli@amwater.com</a></p>
+<p class="box"><strong>Liberty</strong><br/>
+<a href="https://new-york-water.libertyutilities.com/all/residential/">www.new-york-water.libertyutilities.com/all/residential/</a><br/>
+Phone: 1 (877) 426-6999<br/>
+
