@@ -57,7 +57,7 @@ Phone: 1 (800) 275-8777<br/>
 
 ## State
 
-<p class="box"><strong>Governor Andrew M. Cuomo</strong><br/>
+<p class="box"><strong>Governor Kathy Hochul</strong><br/>
 The Honorable Kathy Hochul<br/>
 Governor of New York State<br/>
 NYS State Capitol Building<br/>
