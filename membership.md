@@ -22,18 +22,4 @@ If you have any questions, please [Contact Us]({{ site.baseurl }}{% link contact
 Thank you for your generosity. We appreciate your support!
 
 <script src=https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD data-sdk-integration-source="button-factory"></script>
-    <script>
-
-    function initPayPalButton() {
-
-      paypal.Buttons({
-
-        style: {
-
-          shape: 'rect',
-
-          color: 'blue',
-
-          layout: 'horizontal',
-
-          label: 'pay',
+   
