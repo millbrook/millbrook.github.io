@@ -21,8 +21,19 @@ If you have any questions, please [Contact Us]({{ site.baseurl }}{% link contact
 
 Thank you for your generosity. We appreciate your support!
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="alt">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="D37WWQYFXDR26">
-    <button type="submit" class="button special"><span class="icon fa-paypal"/> Pay Dues</button>
-</form>
+<script src=https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD data-sdk-integration-source="button-factory"></script>
+    <script>
+
+    function initPayPalButton() {
+
+      paypal.Buttons({
+
+        style: {
+
+          shape: 'rect',
+
+          color: 'blue',
+
+          layout: 'horizontal',
+
+          label: 'pay',
