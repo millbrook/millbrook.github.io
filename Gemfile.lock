@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.1)
+    addressable (2.8.4)
       public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
@@ -61,7 +61,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  addressable (~> 2.5)
+  addressable (~> 2.8)
   jekyll (~> 3.7)
   jekyll-paginate (~> 1.1)
   jekyll-sass-converter (~> 1.5)
