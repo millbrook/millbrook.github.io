@@ -12,7 +12,7 @@ See our latest news from around the neighborhood
 You'll feel like you just tuned into your favorite radio station as you hear
 all of the songs you loved.  Enjoy the high energy music and dance the night away with **Audio Replay** at **Mill Brook, Valley Stream**.
 
-![The Free Summer Concert Is Back!]({{ "assets/images/2021/neighborhood-update/summer-concert.jpg" | relative_url }})
+![The Free Summer Concert Is Back!]({{ "assets/images/summer 2023.PNG" | relative_url }})
 
 ## Scholarship Recipient Kristin Luyun
 
