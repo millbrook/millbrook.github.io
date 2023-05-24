@@ -16,16 +16,11 @@ all of the songs you love.  Enjoy the high energy music and dance the night away
 
 ![The Free Summer Concert Is Back!]({{ "assets/images/summer 2023.PNG" | relative_url }})
 
-## Scholarship Recipient Kristin Luyun
+## 2023 Scholarship Recipient MELISSA GUEYE
 
-Every year, the civic association awards a $500 scholarship to a Mill Brook
-senior at SHS based on a submitted essay and other accomplishments. At the
-award ceremony on June 9th, board member Yadlynd Cherubin-Eide presented the
-scholarship to this year’s recipient, Kristin Luyun. Congratulations to
-Kristin on receiving this honor, and good luck to all the graduating seniors of
-2021.
+Every year, the Mill Brook Civic Association awards a $500 scholarship to a Mill Brook
+senior at South High School based on a submitted essay and other accomplishments. We'll have pictures and more to share after the award ceremony on June 7th.  
 
-![Scholarship Recipient Kristin Luyun]({{ "assets/images/2021/neighborhood-update/shs-scholarship.jpg" | relative_url }})
 
 ## Forest Road PTA Scholarship Winners
 
