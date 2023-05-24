@@ -10,7 +10,7 @@ See our latest news from around the neighborhood
 ### Wednesday, July 26, 2023 at 8:00 PM
 
 You'll feel like you just tuned into your favorite radio station as you hear
-all of the songs you loved.  Enjoy the high energy music and dance the night away with **Audio Replay** at **Mill Brook, Valley Stream**.
+all of the songs you love.  Enjoy the high energy music and dance the night away with **Audio Replay** at **Mill Brook, Valley Stream**.
 
 ![The Free Summer Concert Is Back!]({{ "assets/images/summer 2023.PNG" | relative_url }})
 
