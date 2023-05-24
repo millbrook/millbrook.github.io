@@ -6,7 +6,7 @@ gem "jekyll-sass-converter", "~> 1.5"
 
 gem "kramdown", "~> 2.3"
 
-gem "addressable", "~> 2.5"
+gem "addressable", "~> 2.8"
 
 gem "jekyll-watch", "~> 2.0"
 
