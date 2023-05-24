@@ -10,7 +10,8 @@ See our latest news from around the neighborhood
 ### Wednesday, July 26, 2023 at 8:00 PM
 
 You'll feel like you just tuned into your favorite radio station as you hear
-all of the songs you love.  Enjoy the high energy music and dance the night away with **Audio Replay** at **Mill Brook, Valley Stream**.
+all of the songs you love.  Enjoy the high energy music and dance the night away with **Audio Replay** at **Mill Brook, Valley Stream**.  Please feel free to click on the link below for the **Town of Hempstead* *Activities Brochure*. 
+[title](https://hempsteadny.gov/DocumentCenter/View/5666/Summer-Brochure-2023)
 
 ![The Free Summer Concert Is Back!]({{ "assets/images/summer 2023.PNG" | relative_url }})
 
